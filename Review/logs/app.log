@@ -1,0 +1,118 @@
+2026-03-11 00:45:18 - root - INFO - Logging configured successfully
+2026-03-11 00:45:18 - root - INFO - Logging configured successfully
+2026-03-11 00:45:28 - root - INFO - Logging configured successfully
+2026-03-11 00:45:28 - root - INFO - Logging configured successfully
+2026-03-11 00:45:32 - root - INFO - Logging configured successfully
+2026-03-11 00:46:06 - root - INFO - Logging configured successfully
+2026-03-11 00:52:24 - root - INFO - Logging configured successfully
+2026-03-11 00:52:38 - root - INFO - Logging configured successfully
+2026-03-11 00:54:03 - app.services.user_service - INFO - User logged in: admin
+2026-03-11 00:55:37 - root - INFO - Logging configured successfully
+2026-03-11 00:55:45 - root - INFO - Logging configured successfully
+2026-03-11 00:55:57 - root - INFO - Logging configured successfully
+2026-03-11 00:56:33 - root - INFO - Logging configured successfully
+2026-03-11 00:56:37 - root - INFO - Logging configured successfully
+2026-03-11 00:56:38 - root - INFO - Logging configured successfully
+2026-03-11 00:56:45 - root - INFO - Logging configured successfully
+2026-03-11 00:56:47 - root - INFO - Logging configured successfully
+2026-03-11 00:56:49 - root - INFO - Logging configured successfully
+2026-03-11 00:56:51 - root - INFO - Logging configured successfully
+2026-03-11 00:57:17 - root - INFO - Logging configured successfully
+2026-03-11 00:57:21 - root - INFO - Logging configured successfully
+2026-03-11 00:57:23 - root - INFO - Logging configured successfully
+2026-03-11 00:57:24 - root - INFO - Logging configured successfully
+2026-03-11 00:57:26 - root - INFO - Logging configured successfully
+2026-03-11 00:57:28 - root - INFO - Logging configured successfully
+2026-03-11 00:57:31 - root - INFO - Logging configured successfully
+2026-03-11 00:57:32 - root - INFO - Logging configured successfully
+2026-03-11 00:59:48 - root - INFO - Logging configured successfully
+2026-03-11 01:00:19 - root - INFO - Logging configured successfully
+2026-03-11 01:07:56 - root - INFO - Logging configured successfully
+2026-03-11 01:07:57 - root - INFO - Logging configured successfully
+2026-03-11 01:08:24 - root - INFO - Logging configured successfully
+2026-03-11 01:14:23 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 01:15:58 - app.services.user_service - INFO - User logged in: admin
+2026-03-11 01:17:20 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 01:19:00 - app.services.user_service - INFO - User logged in: admin
+2026-03-11 01:19:24 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 01:20:31 - root - INFO - Logging configured successfully
+2026-03-11 01:23:47 - root - INFO - Logging configured successfully
+2026-03-11 01:24:38 - root - INFO - Logging configured successfully
+2026-03-11 01:24:50 - root - INFO - Logging configured successfully
+2026-03-11 01:26:12 - root - INFO - Logging configured successfully
+2026-03-11 01:27:34 - root - INFO - Logging configured successfully
+2026-03-11 01:29:10 - root - INFO - Logging configured successfully
+2026-03-11 01:31:27 - root - INFO - Logging configured successfully
+2026-03-11 01:31:53 - app.services.user_service - INFO - User logged in: admin1
+2026-03-11 01:33:30 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 01:34:54 - root - INFO - Logging configured successfully
+2026-03-11 01:35:17 - app.services.user_service - INFO - User logged in: admin1
+2026-03-11 01:37:51 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 01:39:40 - root - INFO - Logging configured successfully
+2026-03-11 01:40:03 - app.services.user_service - INFO - User logged in: admin1
+2026-03-11 01:40:48 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 01:42:33 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 01:43:00 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 01:43:01 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 01:45:44 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 01:48:39 - root - INFO - Logging configured successfully
+2026-03-11 01:51:55 - root - INFO - Logging configured successfully
+2026-03-11 01:57:15 - root - INFO - Logging configured successfully
+2026-03-11 01:57:57 - app.services.user_service - INFO - User logged in: admin
+2026-03-11 01:58:33 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:05:53 - root - INFO - Logging configured successfully
+2026-03-11 02:06:04 - root - INFO - Logging configured successfully
+2026-03-11 02:06:31 - app.services.user_service - INFO - User logged in: admin
+2026-03-11 02:06:50 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:07:33 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:07:59 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:08:20 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:13:18 - root - INFO - Logging configured successfully
+2026-03-11 02:13:28 - root - INFO - Logging configured successfully
+2026-03-11 02:13:42 - app.services.user_service - INFO - User logged in: admin
+2026-03-11 02:14:19 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:14:53 - root - INFO - Logging configured successfully
+2026-03-11 02:14:56 - root - INFO - Logging configured successfully
+2026-03-11 02:15:00 - root - INFO - Logging configured successfully
+2026-03-11 02:15:04 - root - INFO - Logging configured successfully
+2026-03-11 02:18:20 - root - INFO - Logging configured successfully
+2026-03-11 02:20:15 - root - INFO - Logging configured successfully
+2026-03-11 02:20:24 - app.services.user_service - INFO - User logged in: admin
+2026-03-11 02:21:11 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:21:28 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:22:54 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:23:13 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:23:15 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:23:18 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:25:35 - app.services.movies_service - INFO - Created movie 1: Inception
+2026-03-11 02:25:35 - app.background.tasks - INFO - Starting enrichment for movie 1: 'Inception'
+2026-03-11 02:25:36 - app.services.omdb_service - WARNING - OMDb returned 401 for 'Inception'
+2026-03-11 02:25:36 - app.background.tasks - WARNING - Failed to enrich movie 1
+2026-03-11 02:26:53 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:29:24 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:29:25 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:29:26 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:29:26 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:29:27 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:30:43 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:34:07 - root - INFO - Logging configured successfully
+2026-03-11 02:34:13 - root - INFO - Logging configured successfully
+2026-03-11 02:34:14 - root - INFO - Logging configured successfully
+2026-03-11 02:34:16 - root - INFO - Logging configured successfully
+2026-03-11 02:34:40 - root - INFO - Logging configured successfully
+2026-03-11 02:35:11 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:36:20 - root - INFO - Logging configured successfully
+2026-03-11 02:36:40 - root - INFO - Logging configured successfully
+2026-03-11 02:37:04 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:39:00 - root - INFO - Logging configured successfully
+2026-03-11 02:39:40 - app.services.user_service - INFO - User logged in: admin
+2026-03-11 02:40:05 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:40:43 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:42:56 - app.services.user_service - INFO - User logged in: admin
+2026-03-11 02:43:00 - app.services.user_service - INFO - User logged in: admin
+2026-03-11 02:44:00 - app.auth.dependencies - WARNING - Invalid token attempt
+2026-03-11 02:44:38 - root - INFO - Logging configured successfully
+2026-03-11 02:45:13 - root - INFO - Logging configured successfully
+2026-03-11 02:56:22 - root - INFO - Logging configured successfully
+2026-03-11 02:56:43 - app.services.user_service - INFO - User logged in: admin
+2026-03-11 02:57:11 - app.services.movies_service - INFO - Deleted movie 1
